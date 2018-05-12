@@ -1,0 +1,28 @@
+_repo: The-Boy-Allies-with-the-Cossacks--Or-A-Wild-Dash-over-the-Carpathians_30951
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 30951-h/images/icover.jpg
+creator:
+  author:
+    agent_name: Hayes, Clair W. (Clair Wallace)
+    aliases:
+    - Drake, Robert L.
+    - Hayes, Clair Wallace
+    birthdate: 1887
+    gutenberg_agent_id: '1939'
+    url: http://www.gutenberg.org/2009/agents/1939
+description: ''
+gutenberg_issued: '2010-01-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30951'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'World War, 1914-1918 -- Campaigns -- Eastern Front -- Juvenile fiction'
+title: The Boy Allies with the Cossacks; Or, A Wild Dash over the Carpathians
+url: http://www.gutenberg.org/ebooks/30951
